@@ -13,7 +13,7 @@ As the README file does not contain further details, a deeper analysis of the re
 - 📡 *Protocols*: Utilizing protocols like TCP/IP for data transmission.
 
 The implementation might include programming languages such as Python, Java, or C, depending on the course requirements. To provide a more detailed analysis, specific files and code implementations within the repository would need to be reviewed.
-## Include 
+## Includes 
 - **[Assigment Requirement](https://github.com/LongVoBi37/DEVELOP-A-NETWORK-APPLICATION/blob/a10b397a3997b3716f10483b0a68a34bca78b7c3/Assignment%20requirement%20%26%20report/Assignment%201-Network%20Application%20P2P%20File%20Sharing.pdf)**
 - **[Report](https://github.com/LongVoBi37/DEVELOP-A-NETWORK-APPLICATION/blob/a10b397a3997b3716f10483b0a68a34bca78b7c3/Assignment%20requirement%20%26%20report/ASS1_Report.pdf)**
 - **[Source Code](https://github.com/LongVoBi37/DEVELOP-A-NETWORK-APPLICATION/blob/a10b397a3997b3716f10483b0a68a34bca78b7c3/build/ASS1_source%20code.zip)**
